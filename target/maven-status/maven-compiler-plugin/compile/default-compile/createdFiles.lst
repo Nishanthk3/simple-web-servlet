@@ -1,8 +1,0 @@
-webservlet/SimpleServlet.class
-service/EmployeeService.class
-webservlet/InitialServlet.class
-webservlet/BasicModule.class
-service/CompanyServiceImpl.class
-service/EmployeeServiceImpl.class
-webservlet/ContextListener.class
-service/CompanyService.class
